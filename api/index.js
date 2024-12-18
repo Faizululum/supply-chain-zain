@@ -1,2 +1,2 @@
-const app = require("../src/app.js");
-module.exports = app;
+import app from "../src/app";
+export default app;
